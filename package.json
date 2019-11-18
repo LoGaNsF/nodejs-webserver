@@ -18,7 +18,10 @@
   "author": "José Manuel Garrido Chacón",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "express": "^4.17.1",
-    "hbs": "^4.0.6"
+    "hbs": "^4.0.6",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
   }
 }
